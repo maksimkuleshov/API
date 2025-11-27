@@ -27,3 +27,6 @@ yura.torbunov+test2@gmail.com / test123
 8. Авторизоваться под Сотрудником 1
 9. Принять завершённую задачу
 10. Удалить задачу
+
+Выполнение:
+Файл m74965812.Megaplan_Task2.postman_collection.json
